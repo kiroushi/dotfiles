@@ -1,0 +1,46 @@
+{
+  "editor.rulers": [
+    80
+  ],
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ],
+  "files.trimTrailingWhitespace": true,
+  "editor.detectIndentation": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "editor.minimap.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Default Light+",
+  "editor.fontFamily": "'FiraCode-Retina', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.formatOnSave": true
+  }
+}
